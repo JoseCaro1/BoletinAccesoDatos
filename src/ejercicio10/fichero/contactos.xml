@@ -1,0 +1,36 @@
+<ejercicio10.ListaContactos>
+  <contactosList>
+    <ejercicio8.Contactos>
+      <name>Jose</name>
+      <tel>633221122</tel>
+      <address>Calle ter</address>
+      <codigo__postal>11300</codigo__postal>
+      <deberDinero>true</deberDinero>
+      <dinero>10.0</dinero>
+    </ejercicio8.Contactos>
+    <ejercicio8.Contactos>
+      <name>Pepe</name>
+      <tel>612345646</tel>
+      <address>Calle Arenal</address>
+      <codigo__postal>11300</codigo__postal>
+      <deberDinero>false</deberDinero>
+      <dinero>0.0</dinero>
+    </ejercicio8.Contactos>
+    <ejercicio8.Contactos>
+      <name>Mateo</name>
+      <tel>123456789</tel>
+      <address>Calle Ar</address>
+      <codigo__postal>11300</codigo__postal>
+      <deberDinero>false</deberDinero>
+      <dinero>0.0</dinero>
+    </ejercicio8.Contactos>
+    <ejercicio8.Contactos>
+      <name>Jose</name>
+      <tel>633221122</tel>
+      <address>Calle ter</address>
+      <codigo__postal>11300</codigo__postal>
+      <deberDinero>true</deberDinero>
+      <dinero>10.0</dinero>
+    </ejercicio8.Contactos>
+  </contactosList>
+</ejercicio10.ListaContactos>
